@@ -16,5 +16,5 @@ else:
     grade = "F"
     comment = "Fail"
 print(f"Result for: {name} \n Marks : {score} \n Grade : ({grade}) \n Message :  {comment}")
-
+print("W")
 
